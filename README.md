@@ -2,7 +2,7 @@
 
 [![Nik Sumeiko](https://img.shields.io/badge/Nik_Sumeiko-0762C8?logo=LinkedIn)](https://www.linkedin.com/in/niksumeiko/) &nbsp; ![Awesome](https://awesome.re/badge.svg)
 
-> A kata project to practice Separation of Concerns (SoC) design principle in React.
+> A kata project to practice Separation of Concerns (SoC) and Dependency Inversion design principles in React.
 
 &nbsp;
 ### Project description
