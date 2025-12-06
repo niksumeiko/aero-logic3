@@ -16,7 +16,7 @@
     "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,md}'",
     "preview": "vite preview",
     "test:unit": "vitest",
-    "test:unit:coverage": "vitest run --coverage",
+    "test:unit:cov": "vitest run --coverage",
     "test:integration": "cypress open --component --browser electron"
   },
   "dependencies": {
